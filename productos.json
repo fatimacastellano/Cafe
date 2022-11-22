@@ -1,0 +1,176 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "CAFE AMERICANO",
+            "price": 35,
+            "image": "img/americano.png",
+            "category": "BEBIDAS CALIENTES"
+        },
+        {
+            "id": 2,
+            "title": "CAPUCHINO",
+            "price": 40,
+            "image": "img/capuchino.png",
+            "category": "BEBIDAS CALIENTES"
+        },
+        {
+            "id": 3,
+            "title": "EXPRESSO",
+            "price": 60,
+            "image": "img/espresso.png",
+            "category": "BEBIDAS CALIENTES"
+        },
+        {
+            "id": 4,
+            "title": "LATTE",
+            "price": 40,
+            "image": "img/latte.png",
+            "category": "BEBIDAS CALIENTES"
+        },
+        {
+            "id": 5,
+            "title": "MOKA",
+            "price": 40,
+            "image": "img/moka.png",
+            "category": "BEBIDAS CALIENTES"
+
+        },
+        {
+            "id": 6,
+            "title": "TE INFUSIÓN",
+            "price": 35,
+            "image": "img/infusion.png",
+            "category": "BEBIDAS CALIENTES"
+
+        },
+        {
+            "id": 7,
+            "title": "CHAI LATTE",
+            "price": 70,
+            "image": "img/chai.png",
+            "category": "BEBIDAS CALIENTES"
+        },
+        {
+            "id": 8,
+            "title": "CHOCOLATE CALIENTE",
+            "price": 40,
+            "image": "img/chocolate.png",
+            "category": "BEBIDAS CALIENTES"
+        },
+        {
+            "id": 9,
+            "title": "TE HELADO",
+            "price": 30,
+            "image": "img/tehelado.png",
+            "category": "BEBIDAS FRIAS"
+        },
+        {
+            "id": 10,
+            "title": "AGUA",
+            "price": 20,
+            "image": "img/vasoagua.png",
+            "category": "BEBIDAS FRIAS"
+        },
+        {
+            "id": 11,
+            "title": "GASEOSAS",
+            "price": 25,
+            "image": "img/gaseosa.png",
+            "category": "BEBIDAS FRIAS"
+        },
+        {
+            "id": 12,
+            "title": "LIMONADA",
+            "price": 30,
+            "image": "img/limonada.jpeg",
+            "category": "BEBIDAS FRIAS"
+        },
+        {
+            "id": 13,
+            "title": "CAFE FRIO",
+            "price": 40,
+            "image": "img/cafefrio.png",
+            "category": "BEBIDAS FRIAS"
+        },
+        {
+            "id": 14,
+            "title": "SMOOTHIES",
+            "price": 35,
+            "image": "img/smoothie.png",
+            "category": "BEBIDAS FRIAS"
+        },
+        {
+            "id": 15,
+            "title": "MALTEADAS",
+            "price": 40,
+            "image": "img/malteada.png",
+            "category": "BEBIDAS FRIAS"
+        },
+        {
+            "id": 16,
+            "title": "FRAPPES",
+            "price": 40,
+            "image": "img/frappe.png",
+            "category": "BEBIDAS FRIAS"
+        },
+        {
+            "id": 17,
+            "title": "CREPAS",
+            "price": 70,
+            "image": "img/crepa.png",
+            "category": "ALIMENTOS"
+
+        },
+        {
+            "id": 18,
+            "title": "ENSALADAS",
+            "price": 55,
+            "image": "img/ensa.png",
+            "category": "ALIMENTOS"
+
+        },
+        {
+            "id": 19,
+            "title": "BROWNIES",
+            "price": 60,
+            "image": "img/brown.png",
+            "category": "ALIMENTOS"
+        },
+        {
+            "id": 20,
+            "title": "BAGUETTES",
+            "price": 55,
+            "image": "img/baguette.png",
+            "category": "ALIMENTOS"
+        },
+        {
+            "id": 21,
+            "title": "HOT CAKES Y WAFFLES",
+            "price": 45,
+            "image": "img/hot.png",
+            "category": "ALIMENTOS"
+        },
+        {
+            "id": 22,
+            "title": "CROSSAINTS",
+            "price": 50,
+            "image": "img/croiss.png",
+            "category": "ALIMENTOS"
+        },
+        {
+            "id": 23,
+            "title": "PAN",
+            "price": 20,
+            "image": "img/pan.png",
+            "category": "ALIMENTOS"
+        },
+        {
+            "id": 24,
+            "title": "REBANADAS DE PASTEL",
+            "price": 38,
+            "image": "img/pastel.png",
+            "category": "ALIMENTOS"
+        }
+    ]
+}
